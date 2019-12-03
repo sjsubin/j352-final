@@ -1,17 +1,29 @@
 html{
   margin-top: 20px;
-  margin-left: 100px;
-  margin-right: 100px;
+  margin-left: 200px;
+  margin-right: 200px;
   background-color: #EFF6EF;
+  align-items: center;
 }
 
-body {
+p{
   font-family: 'Helvetica','Arial', sans-serif;
   font-size: 16px;
   line-height:1.5;
 }
 
-img.fix{
+img.building{
+  width:40%;
+}
+
+#hjcaption{
+  color: grey;
+  font-size: 12px;
+  font-style: Noto;
+
+}
+}
+img.fixme{
   max-width: 100px;
   max-height: 300px;
   margin-left: 100px;
