@@ -13,7 +13,8 @@ p{
 }
 
 img.building{
-  width:40%;
+  width:100%;
+  text-align: center;
 }
 
 #hjcaption{
@@ -22,14 +23,15 @@ img.building{
   font-style: Noto;
 
 }
-}
 img.fixme{
-  max-width: 100px;
-  max-height: 300px;
-  margin-left: 100px;
-  width:30%;
+  width:70%;
 }
-h2{
+
+img.umd{
+  width: 70%;
+}
+
+h3{
   font-family: 'Noto Serif', serif;
   font-size: 18px;
   font-weight: bold;
@@ -39,7 +41,8 @@ h2{
 }
 
 img.comparison{
-  padding-bottom: 50px;
+  padding-bottom: 20px;
+  width: 100%;
 }
 
 h6 {
