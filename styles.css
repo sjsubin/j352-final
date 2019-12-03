@@ -1,7 +1,8 @@
 html{
-  margin-top: 100px;
-  margin-left: 200px;
-  margin-right: 200px;
+  margin-top: 20px;
+  margin-left: 100px;
+  margin-right: 100px;
+  background-color: #EFF6EF;
 }
 
 body {
@@ -10,11 +11,12 @@ body {
   line-height:1.5;
 }
 
-h1{
-  padding-bottom: 20px;
-
+img.fix{
+  max-width: 100px;
+  max-height: 300px;
+  margin-left: 100px;
+  width:30%;
 }
-
 h2{
   font-family: 'Noto Serif', serif;
   font-size: 18px;
@@ -40,7 +42,14 @@ p.finish{margin-bottom: 40px;}
 
 #byline{
 font-size: 16px;
-font-style: font-family: 'Noto Serif', serif;
+font-style: 'Noto Serif', serif;
 color:grey;
 font-weight: 100;
+}
+
+h1{
+  letter-spacing: 4px;
+  font-size: 30px;
+  font-weight: lighter;
+  font-family: 'Helvetica','Arial', sans-serif;
 }
