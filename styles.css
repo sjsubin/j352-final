@@ -23,7 +23,7 @@ img.knight{
 }
 img.fixme{
   width:100%;
-  height: 90%;
+  height: auto;
   padding-top: 50px;
   border-style: outset;
 }
@@ -79,11 +79,10 @@ h1{
   font-family: 'Roboto Slab', serif;
   padding-bottom: 10px;
 }
-a.copyright{
+p.copyright{
   font-size: 12px;
   font-family: 'Helvetica','Arial', sans-serif;
-  margin-left: 450px;
-  margin-right: 450px;
+  text-align: center;
 }
 
 figcaption{
