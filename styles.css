@@ -1,10 +1,10 @@
 html{
-  margin-top: 20px;
-  margin-left: 200px;
-  margin-right: 200px;
+  max-width:none;
+  margin: 0 auto;
   background-color: #EFF6EF;
   align-items: center;
 }
+
 
 p{
   font-family: 'Montserrat', sans-serif;
@@ -25,11 +25,6 @@ img.fixme{
   width:100%;
   height: auto;
   padding-top: 50px;
-  border-style: outset;
-}
-
-img.border{
-  border-style: outset;
 }
 
 img{
@@ -52,7 +47,6 @@ h3{
 img.comparison{
   padding-bottom: 20px;
   width: 100%;
-  border-style: outset;
 }
 
 h6 {
